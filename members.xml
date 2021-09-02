@@ -1,0 +1,9 @@
+<projects>
+    <member name="Ivan">
+        <role name="manager" project="xml"/>
+    </member>
+    <member name="Fedya">
+        <role name="developer" project="xml"/>
+        <role name="developer" project="rpc"/>
+    </member>
+</projects>
